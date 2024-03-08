@@ -32,6 +32,7 @@ body{
 
 .content{
 	float: left;
+	text-align: justify;
 }
 
 #k{
