@@ -1,0 +1,46 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	position: absolute;
+	left: 2%;
+	top: 2%;
+}
+
+
+#validator{
+	display: none;
+}
+
+.head{
+	display: none;
+} 
+
+
+body{
+	margin: 0 20%;
+}
+
+.logo{
+	margin:  0 15px 0 0;
+	float: left;
+}
+
+.content{
+	float: left;
+}
+
+#k{
+	
+	width: 250px;
+
+}
+
+.image{
+	float: left;
+	margin: 7px;
+}
